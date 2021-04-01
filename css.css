@@ -1,0 +1,26 @@
+body {
+	margin:0;
+    padding:0;
+	background-image:url("slk.jpg");
+}
+
+h1 { 
+  color: #2bc4c2;
+  text-align: center;
+}
+div{
+	margin:13% auto auto auto;
+    background: white;
+	width:30%;
+	background-color:#ccccff;
+}
+table{
+	margin:auto;
+	width:auto;
+	border-spacing:10px;
+	border:1px solid black;
+	cellpadding:10%;
+}
+#sub{
+	margin-left:40%;
+}
